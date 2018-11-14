@@ -3,6 +3,9 @@ package com.bili.lcc;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author soushihisashi
+ */
 @SpringBootApplication
 public class LccApplication {
 
